@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Banking Simulation Platform](https://github.com/VAIBHAVPATIL042/Bank-Simulator)
 
-- 🌱 I’m currently learning **Springboot,Docker,devops**
+- 🌱 I’m currently learning **Springboot,Docker,Devops**
 
 - 📫 How to reach me **vaibhavpatil5411@gmail.com**
 
