@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
-<h3 align="center">Learner Today, Developer Tomorrow — Growing One Commit at a Time 🚀| Undergraduate Computer Engineering Student | Aspiring Software Developer”</h3>
+<h3 align="center">Learner Today, Developer Tomorrow — Growing One Commit at a Time 🚀| Final Year Computer Engineering Student | Aspiring Software Developer”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpatil042&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpatil042" /> </p>
 
