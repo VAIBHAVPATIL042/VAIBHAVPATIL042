@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavpatil042" alt="vaibhavpatil042" /></a> </p>
 
-- 🔭 I’m currently working on [Banking Simulation Platform](https://github.com/VAIBHAVPATIL042/Bank-Simulator)
+- 🔭 I’m currently working on [Failure Prediction in CI/CD Pipelines](https://github.com/VAIBHAVPATIL042/Failure-Prediction-In-CI-CD-Pipelines)
 
 - 🌱 I’m currently learning **Springboot,Docker,Devops**
 
