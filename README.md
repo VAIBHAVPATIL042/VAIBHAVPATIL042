@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vaibhavpatil5411@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sKUraFcBOvHnRtcKISI6KLIG8e9xQ4js/view?usp=drive_link](https://drive.google.com/file/d/1sKUraFcBOvHnRtcKISI6KLIG8e9xQ4js/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zPFeYy3sKsAdjveoGQqJ_0GNhljbDHLm/view](https://drive.google.com/file/d/1zPFeYy3sKsAdjveoGQqJ_0GNhljbDHLm/view)
 
 - ⚡ Fun fact **For fun to Trvael and Learn new things.**
 
