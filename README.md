@@ -9,7 +9,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Computer_Engineering-4C2A85?style=flat-square&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.0%2F10-6A3FBF?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.01%2F10-6A3FBF?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Pune%2C_Maharashtra%2C_India-3D1E6D?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Open_to_Work-2ECC71?style=flat-square&logo=briefcase&logoColor=white)
 
