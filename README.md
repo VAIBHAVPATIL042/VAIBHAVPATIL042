@@ -1,29 +1,194 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
-<h3 align="center">Learner Today, Developer Tomorrow — Growing One Commit at a Time 🚀| Final Year Computer Engineering Student | Aspiring Software Developer”</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpatil042&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpatil042" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=230&section=header&text=Darshan%20Manohar%20Pawar&fontSize=42&fontColor=B388FF&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavpatil042" alt="vaibhavpatil042" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=9D7FEA&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%2B+REST+API+Engineer;Final-Year+B.Tech+Computer+Engineer;Open+to+Full+Stack+%2F+Backend+Roles" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [Failure Prediction in CI/CD Pipelines](https://github.com/VAIBHAVPATIL042/Failure-Prediction-In-CI-CD-Pipelines)
+<br/>
 
-- 🌱 I’m currently learning **Springboot,Docker,Devops**
+![Education](https://img.shields.io/badge/B.Tech-Computer_Engineering-4C2A85?style=flat-square&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.0%2F10-6A3FBF?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Pune%2C_Maharashtra%2C_India-3D1E6D?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-2ECC71?style=flat-square&logo=briefcase&logoColor=white)
 
-- 📫 How to reach me **vaibhavpatil5411@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zPFeYy3sKsAdjveoGQqJ_0GNhljbDHLm/view](https://drive.google.com/file/d/1zPFeYy3sKsAdjveoGQqJ_0GNhljbDHLm/view)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-patil-1b4871257)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAIBHAVPATIL042)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavpatil5411@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VAIBHAVPATIL042)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8468910966)
 
-- ⚡ Fun fact **For fun to Trvael and Learn new things.**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-patil-1b4871257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-patil-1b4871257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhav_.043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_.043" height="30" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=VAIBHAVPATIL042&color=6a3fbf&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/VAIBHAVPATIL0422?color=6a3fbf&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/VAIBHAVPATIL042?color=6a3fbf&style=flat-square&label=Stars)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavpatil042&show_icons=true&locale=en&layout=compact" alt="vaibhavpatil042" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavpatil042&show_icons=true&locale=en" alt="vaibhavpatil042" /></p>
+## 👨‍💻 About Me
+
+```java
+package com.vaibhav.profile;
+
+import java.util.List;
+import java.util.Map;
+
+public class VaibhavPatil {
+
+    private static final String NAME       = "Vaibhav Ashok Patil";
+    private static final String ROLE       = "Java Backend Developer | Full Stack Developer";
+    private static final String EDUCATION  = "B.Tech in Computer Engineering";
+    private static final String COLLEGE    = "SVKM's Institute of Technology, Dhule";
+    private static final String GRAD_YEAR  = "2026";
+    private static final String CGPA       = "8.01 / 10";
+    private static final String LOCATION   = "Pune, Maharashtra, India";
+    private static final String EMAIL      = "vaibhavpatil5411@gmail.com";
+
+    private static final List<String> CORE_SKILLS = List.of(
+        "Java", "Spring Boot", "Spring Security", "Hibernate/JPA",
+        "MySQL", "MongoDB", "React.js", "REST APIs", "Docker"
+    );
+
+    private static final Map<String, String> CURRENT_FOCUS = Map.of(
+        "Building",  "Production-grade Java backend systems with Spring Boot",
+        "Sharpening", "Data Structures & Algorithms fundamentals",
+        "Targeting", "Java Full Stack and Backend Developer roles"
+    );
+
+    @Override
+    public String toString() {
+        return NAME + " -> " + ROLE + " @ " + LOCATION;
+    }
+
+    public static void main(String[] args) {
+        VaibhavPatil me = new VaibhavPatil();
+        System.out.println(me);
+        System.out.println("Open to opportunities. Let's build something great!");
+    }
+}
+```
+
+**Open To:** Entry-level **Java Backend Developer** and **Full Stack Developer** roles · Internships in AI-integrated backend systems · Open-source collaboration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+</div>
+
+<br/>
+
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,py,mysql,mongodb,react,spring,nodejs,express,docker,git,github,postman,idea,vscode,vercel" />
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📈 Proficiency Breakdown</b></summary>
+
+<br/>
+
+| Skill | Level |
+|---|---|
+| Java | ████████████████░░ 80% |
+| Spring Boot | ██████████████░░░░ 70% |
+| SQL / MySQL | ████████████████░░ 80% |
+| React.js | ████████████░░░░░░ 60% |
+| Data Structures & Algorithms | ████████████████░░ 80% |
+| Python | ██████████████░░░░ 70% |
+
+</details>
+
+<br/>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Darshan2042&theme=tokyonight&hide_border=true&ring=6A3FBF&fire=9D7FEA&background=0D1117" width="60%" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VAIBHAVPATIL042/VAIBHAVPATIL042/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VAIBHAVPATIL042/VAIBHAVPATIL042/output/snake-light.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/VAIBHAVPATIL042/VAIBHAVPATIL042/output/snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavpatil5411@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-patil-1b4871257)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAIBHAVPATIL042)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8468910966)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Code daily. Ship often. Learn always."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,50:16213E,100:1A1A2E&height=120&section=footer" width="100%"/>
+
+</div>
