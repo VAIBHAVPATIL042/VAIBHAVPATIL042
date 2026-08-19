@@ -154,7 +154,7 @@ public class VaibhavPatil {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Darshan2042&theme=tokyonight&hide_border=true&ring=6A3FBF&fire=9D7FEA&background=0D1117" width="60%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=VAIBHAVPATIL042&theme=tokyonight&hide_border=true&ring=6A3FBF&fire=9D7FEA&background=0D1117" width="60%" alt="GitHub Streak"/>
 
 </div>
 
