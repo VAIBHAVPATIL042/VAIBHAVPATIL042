@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Darshan2042
+          github_user_name: VAIBHAVPATIL042
           outputs: |
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
